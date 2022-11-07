@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("Hello IDEA Git!");
         System.out.println("Hello IDEA Git!");
         System.out.println("Push Hello IDEA Git!");
+        System.out.println("Pull Hello IDEA Git!");
     }
 }
